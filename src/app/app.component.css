@@ -65,6 +65,14 @@
     align-items: center;
   }
 
+  .example-card{
+    display: flex;
+    margin: 50px auto 30px;
+    padding: 0 50px;
+    max-width: 960px;
+    flex-direction: column;
+  }
+
   svg.material-icons {
     height: 24px;
     width: auto;
